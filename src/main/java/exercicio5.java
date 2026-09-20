@@ -1,4 +1,4 @@
-package br.com.ItaloGabrielPasetti.lista02;
+package br.com.ItaloGabrielPasetti.lista3;
 
 import java.util.Scanner;
 
